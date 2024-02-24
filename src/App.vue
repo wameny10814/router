@@ -17,7 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
           <RouterLink to="/about">About</RouterLink>
         </div>
         <div>
-          <RouterLink :to="{name:'產品列表'}">產品列表</RouterLink>
+          <RouterLink :to="{name:'產品列表'}">產品列表fff</RouterLink>
         </div>
       </div>
  
