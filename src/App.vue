@@ -22,6 +22,9 @@ import HelloWorld from './components/HelloWorld.vue'
         <div>
           <RouterLink to="/pricechange">PriceChange</RouterLink>
         </div>
+        <div>
+          <RouterLink to="/NSPPPSave">NPPNSP</RouterLink>
+        </div>
         
       </div>
  
